@@ -1,0 +1,26 @@
+﻿Build started 12/07/2019 9:12:36 AM.
+     1>Project "C:\Users\Admin\Desktop\bt\BTH_CHUONG_1\BTH_CHUONG_4\BTH_CHUONG_4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\BTH_CHUONG_4.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Bai03.cpp Bai04.cpp
+         Bai04.cpp
+         Bai03.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Desktop\bt\BTH_CHUONG_1\Debug\BTH_CHUONG_4.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BTH_CHUONG_4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Admin\Desktop\bt\BTH_CHUONG_1\Debug\BTH_CHUONG_4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Desktop\bt\BTH_CHUONG_1\Debug\BTH_CHUONG_4.lib" /MACHINE:X86 Debug\Bai01.obj
+         Debug\Bai02.obj
+         Debug\Bai03.obj
+         Debug\Bai04.obj
+         LINK : C:\Users\Admin\Desktop\bt\BTH_CHUONG_1\Debug\BTH_CHUONG_4.exe not found or not built by the last incremental link; performing full link
+         BTH_CHUONG_4.vcxproj -> C:\Users\Admin\Desktop\bt\BTH_CHUONG_1\Debug\BTH_CHUONG_4.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Admin\Desktop\bt\BTH_CHUONG_1\Debug\BTH_CHUONG_4.exe;#1" /manifest Debug\BTH_CHUONG_4.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\BTH_CHUONG_4.unsuccessfulbuild".
+         Touching "Debug\BTH_CHUONG_4.lastbuildstate".
+     1>Done Building Project "C:\Users\Admin\Desktop\bt\BTH_CHUONG_1\BTH_CHUONG_4\BTH_CHUONG_4.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.47
