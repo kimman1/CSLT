@@ -64,6 +64,16 @@
     <ClCompile Include="Bai02.cpp" />
     <ClCompile Include="Bai03.cpp" />
     <ClCompile Include="Bai04.cpp" />
+    <ClCompile Include="Bai05.cpp" />
+    <ClCompile Include="Bai06.cpp" />
+    <ClCompile Include="Bai07.cpp" />
+    <ClCompile Include="Bai08.cpp" />
+    <ClCompile Include="Bai09.cpp" />
+    <ClCompile Include="Bai10.cpp" />
+    <ClCompile Include="Bai11.cpp" />
+    <ClCompile Include="Bai12.cpp" />
+    <ClCompile Include="DecToBin.cpp" />
+    <ClCompile Include="Dec_To_Bin.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
