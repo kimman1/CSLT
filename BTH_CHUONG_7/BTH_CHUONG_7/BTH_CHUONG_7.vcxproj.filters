@@ -48,7 +48,13 @@
     <ClCompile Include="Bai11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ArrSort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Bai12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tinhDaThuc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

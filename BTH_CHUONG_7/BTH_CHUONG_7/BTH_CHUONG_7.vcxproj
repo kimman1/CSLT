@@ -60,6 +60,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrSort.cpp" />
     <ClCompile Include="Bai01.cpp" />
     <ClCompile Include="Bai02.cpp" />
     <ClCompile Include="Bai03.cpp" />
@@ -72,6 +73,7 @@
     <ClCompile Include="Bai10.cpp" />
     <ClCompile Include="Bai11.cpp" />
     <ClCompile Include="Bai12.cpp" />
+    <ClCompile Include="tinhDaThuc.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
